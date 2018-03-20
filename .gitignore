@@ -5,3 +5,7 @@
 *.Cache
 *.txt
 *.resources
+/Debug
+/bin
+/obj
+/Properties
