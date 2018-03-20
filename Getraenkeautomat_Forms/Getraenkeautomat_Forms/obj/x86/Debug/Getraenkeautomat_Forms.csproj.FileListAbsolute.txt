@@ -1,0 +1,14 @@
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\bin\Debug\Getraenkeautomat_Forms.exe
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\bin\Debug\Getraenkeautomat_Forms.pdb
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.Form1.resources
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.Properties.Resources.resources
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.csproj.GenerateResource.Cache
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.exe
+C:\Users\marja\AppData\Local\Temporary Projects\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.pdb
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.exe
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.pdb
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.Form1.resources
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.Properties.Resources.resources
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\obj\x86\Debug\Getraenkeautomat_Forms.csproj.GenerateResource.Cache
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\bin\Debug\Getraenkeautomat_Forms.exe
+C:\Users\marja\Cäsar\Getraenkeautomat_Forms\Getraenkeautomat_Forms\bin\Debug\Getraenkeautomat_Forms.pdb
